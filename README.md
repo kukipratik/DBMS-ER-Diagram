@@ -1,4 +1,4 @@
-#Project Description:
+# Project Description:
 The Recommendation Letter Generator system is designed to integrate the overall process of requesting and creating recommendation letters for students. After the completion of their final year, there is a significant number of students applying to foreign Universities for higher education, and professors are faced with a massive influx of recommendation letter requests. This causes significant delay in accommodating the student requests, so our recommendation letter generator system tries to solve this problem by creating a common portal for both students and professors, whereby students can request a professor by providing the appropriate credentials and resume. Then for professors, our portal provides an organized list of all pending student requests, and then the professors can easily create recommendation letters for the students.
 
 In our system, there are mainly three types of roles that a user will have:
@@ -9,7 +9,7 @@ In our system, there are mainly three types of roles that a user will have:
 3. Student:Students are the ones making requests to teachers for recommendation letters, upon registering into our portal and creating an account, the students provide all the relevant information such as their faculty, department, professors they have studied from, and the names of projects or any other extra activities they have been involved with during their time in college. Then, they can request one of the teachers for a recommendation letter.
 
 
-#Technologies Used:
+# Technologies Used:
 We have employed the following technologies to power our Recommendation Letter Generation System:
 Django to handle the backend system.
 HTML/CSS create UI and frontend.
